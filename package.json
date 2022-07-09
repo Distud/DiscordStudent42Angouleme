@@ -1,0 +1,29 @@
+{
+  "name": "adabot",
+  "version": "1.0.0",
+  "description": "ITSec security bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Unam3dd/Ada.git"
+  },
+  "keywords": [
+    "Discord",
+    "Bot"
+  ],
+  "author": "sam0verlf0w (stales)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Unam3dd/Ada/issues"
+  },
+  "homepage": "https://github.com/Unam3dd/Ada#readme",
+  "dependencies": {
+    "@discordjs/rest": "^0.5.0",
+    "discord-api-types": "^0.36.1",
+    "discord.js": "^13.8.1",
+    "node-emojify": "^0.0.15"
+  }
+}

@@ -1,0 +1,9 @@
+{
+    "token": "OTkyNzU4NDkzMzY5MDk0Mjc1.G5VlEf.RvKPDF5-faWyGXyUSUqNuxfyAjG9oTflzX2Z_Y",
+    "prefix": "!",
+    "commands_dir": "commands",
+    "inter_dir": "inter",
+    "events_dir": "events",
+    "flagchannel": "992787191497494528",
+    "flags": ["test"]
+}
